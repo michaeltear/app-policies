@@ -1,0 +1,23 @@
+KEEPING YOUR INFORMATION SECURE
+
+We work hard to protect you from unauthorized access, alteration, disclosure, or destruction of information we hold within this application. The information saved within this application includes:
+
+- Using and storing your home address information to communicate your work from home status. 
+
+ADDITIONAL SECURITY MEASURES
+
+We use encryption to keep your data private while in transit.
+We use security features like using a secure data access token to authenticate.
+The data access token refreshes periodically itself.
+We require entry of an access code to access data from the application. 
+We restrict access to the application upon termination of employment.
+
+ADDITIONAL PRIVACY INFORMATION
+
+Your privacy is very important to us and therefore will not used the location services built into your phone to track your whereabouts. 
+
+USE OF THIS TOOL 
+
+The Schultheis and Panettieri Staff Diary application is provided solely as an aid to assist you in communicating your whereabouts to the administrative staff. Please reach out to any administrative assistant in any situation where a question arises.  If there is any disparity between the diary application and your actual whereabouts, please notify the administrative assistant team, and communicate the issue to an IT representative as soon as possible.  Use this aid only as a tool to communicate with Schultheis and Panettieri's administrative assistant team, and only to the extent that Schultheis and Panettieri permits. The use of this application is at the sole discretion of said user, and Schultheis and Panettieri assumes no liability for your use of this application.
+
+
